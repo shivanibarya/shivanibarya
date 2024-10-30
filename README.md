@@ -1,3 +1,4 @@
+ABOUT ME-
 - 👋 Hi, I’m @shivanibarya
 - 👀 I’m interested in web development, java development.
 - 🌱 I’m currently learning JavaScript and React to enhance my front-end development skills.
