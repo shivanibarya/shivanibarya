@@ -57,15 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibarya&theme=radical" height="150"/>
-</p>
-
----
-
 ## 🏆 Achievements  
 
 🏆 **Excellence Award** – 100% Attendance (May 2024)  
