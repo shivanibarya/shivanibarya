@@ -1,96 +1,62 @@
-<!-- 👋 Hi there, welcome to my profile! -->
-<h1 align="center">👋 Hi, I'm Shivani Barya</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | MCA (Cloud Computing)</h3>
+# 💻 Hi, I'm Shivani Barya! 👋  
+🚀 **Aspiring DevOps Engineer | Cloud Computing Enthusiast | AWS & Azure Practitioner**  
 
-<p align="center">
-  <a href="mailto:shivani.barya@outlook.com"><img src="https://img.shields.io/badge/Email-shivani.barya%40outlook.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/shivani-barya-2b1736293"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/shivanibarya"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-</p>
+📍 Bengaluru, India | 🎓 MCA in Cloud Computing (CGPA: 9.4)  
+📧 **shivani.barya@outlook.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)  
 
 ---
 
-## 👩‍💻 About Me  
-- 🎓 MCA (Cloud Computing) Student | **CGPA: 9.4**  
-- ☁️ Skilled in **AWS (EC2, S3, RDS, VPC, IAM, Lambda)** & **Azure (VMs, Storage)**  
-- ⚙️ Experienced in **CI/CD, Jenkins, Docker, Kubernetes, Terraform**  
-- 🏆 Winner of **IEEE Competitions & SISTECH Hackathon 2.0**  
-- 🌱 Passionate about **DevOps, Cloud Architecture, Automation, and Scalable Systems**  
+## 🛠️ Tech Stack & Tools  
 
----
-
-## 🛠️ Tech Stack  
-
-| **Category**         | **Skills & Tools** |
-|---------------------|------------------|
-| **Languages**       | ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python) ![SQL](https://img.shields.io/badge/Database-SQL-green?logo=database) |
-| **Cloud**           | ![AWS](https://img.shields.io/badge/AWS-EC2%2CS3%2CRDS-orange?logo=amazon-aws) ![Azure](https://img.shields.io/badge/Azure-VMs%2CStorage-blue?logo=microsoft-azure) |
-| **DevOps Tools**    | ![Git](https://img.shields.io/badge/Version-Git-orange?logo=git) ![Jenkins](https://img.shields.io/badge/CI-Jenkins-red?logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-black?logo=githubactions) |
-| **Containerization** | ![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes) |
-| **IaC & Config**    | ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform) ![Ansible](https://img.shields.io/badge/Config-Ansible-red?logo=ansible) |
-| **OS & Virtualization** | ![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux) ![VMware](https://img.shields.io/badge/VM-VMware-grey?logo=vmware) |
-
----
-
-## 📂 Featured Projects  
-
-🔹 **3-Tier Architecture on AWS** – Designed secure VPC, EC2, RDS, ALB, Auto Scaling, IAM roles  
-🔹 **CDN with AWS CloudFront** – Reduced latency by 40% using CloudFront + S3 + WAF  
-🔹 **Rural Remedies Platform** – Full-stack (React, Node, MongoDB) web app empowering rural women  
-🔹 **We-Safe** – Community safety website with reporting & awareness tools  
-
----
-
-## 📜 Certifications  
-
-🏅 AWS Cloud Practitioner Essentials (Nov 2024)  
-🏅 Oracle Certified Foundation Associate (Sep 2024)  
-🏅 Fundamentals of Cloud Security (Sep 2024)  
-🎖 IEEE Coding/Project/Poster Competition (Dec 2023)  
-🎖 SISTECH Hackathon 2.0 (Apr 2023)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibarya&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=tokyonight" height="150" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ## 📌 Pinned Projects  
 
-<p align="center">
-  <a href="https://github.com/shivanibarya/3-tier-architecture-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=3-tier-architecture-aws&theme=radical" />
-  </a>
-  <a href="https://github.com/shivanibarya/aws-cloudfront-cdn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-cloudfront-cdn&theme=radical" />
-  </a>
-</p>
+[![3-Tier AWS Architecture](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-3tier-architecture&theme=radical)](https://github.com/shivanibarya/aws-3tier-architecture)
+[![Content Delivery with CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-cloudfront-project&theme=radical)](https://github.com/shivanibarya/aws-cloudfront-project)
+[![Rural Remedies](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=rural-remedies&theme=radical)](https://github.com/shivanibarya/rural-remedies)
+[![We-Safe](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=we-safe&theme=radical)](https://github.com/shivanibarya/we-safe)
 
 ---
 
-## 🏆 Achievements  
+## 📊 GitHub Stats  
 
-🏆 **Excellence Award – 100% Attendance** (May 2024)  
-🎯 **IEEE Competitions Winner** (Dec 2023)  
-🎖 **Hackathon Winner – SISTECH 2.0** (Apr 2023)  
-
----
-
-## 💡 Fun Facts  
-
-- ☕ Debugs best with **coffee & lo-fi music**  
-- 🌱 Learning **advanced Kubernetes & Terraform**  
-- 🤝 Open to collaborating on **Cloud + DevOps open-source projects**  
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=radical)
 
 ---
 
-⭐ **Let's connect and build something impactful together!**
+## 🏅 Certifications & Achievements  
+
+- 🏆 **AWS Cloud Practitioner Essentials**  
+- 🏆 **Oracle Certified Foundation Associate**  
+- 🏆 **Fundamentals of Cloud Security**  
+- 🎖 **IEEE Coding/Project/Poster Competition Winner**  
+- 🎖 **SISTECH Hackathon 2.0 Finalist**  
+- 🏅 **Excellence Award (100% Attendance)**  
+
+---
+
+## 🌐 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+---
+
+⭐ **Pro Tip:** Your pinned projects automatically show live GitHub stars, forks, and descriptions — recruiters love this!  
+
