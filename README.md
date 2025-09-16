@@ -1,9 +1,8 @@
 # 💻 Hi, I'm Shivani Barya! 👋  
-🚀 **DevOps Engineer | Cloud Enthusiast | MCA Cloud Computing (CGPA: 9.4)** 
-Currentley i am learning Aws , Devops
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
 
-📍 Bengaluru, India | 📧 **shivani.barya@outlook.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)  
+📍 **Bengaluru, India** | 📧 **shivani.barya@outlook.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen)
 
@@ -23,6 +22,25 @@ Currentley i am learning Aws , Devops
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## 📚 Currently Learning  
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
+
+---
+
+## 📌 Pinned Projects  
+
+[![3-Tier AWS Architecture](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-3tier-architecture&theme=radical)](https://github.com/shivanibarya/aws-3tier-architecture)
+[![Content Delivery with CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-cloudfront-project&theme=radical)](https://github.com/shivanibarya/aws-cloudfront-project)
+[![Rural Remedies](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=rural-remedies&theme=radical)](https://github.com/shivanibarya/rural-remedies)
+[![We-Safe](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=we-safe&theme=radical)](https://github.com/shivanibarya/we-safe)
 
 ---
 
@@ -67,6 +85,5 @@ Currentley i am learning Aws , Devops
 
 ---
 
-⭐ **Pro Tip:** This README is fully dynamic — it auto-refreshes your stats, streak, languages, contributions, and trophies daily!  
-
+⭐ **This README dynamically updates with your latest contributions and progress — showing the world what you are learning right now!**
 
