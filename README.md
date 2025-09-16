@@ -1,5 +1,6 @@
 # 💻 Hi, I'm Shivani Barya! 👋  
-🚀 **DevOps Engineer | Cloud Enthusiast | MCA Cloud Computing (CGPA: 9.4)**  
+🚀 **DevOps Engineer | Cloud Enthusiast | MCA Cloud Computing (CGPA: 9.4)** 
+Currentley i am learning Aws , Devops
 
 📍 Bengaluru, India | 📧 **shivani.barya@outlook.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)  
