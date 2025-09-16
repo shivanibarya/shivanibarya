@@ -1,8 +1,10 @@
 # 💻 Hi, I'm Shivani Barya! 👋  
-🚀 **Aspiring DevOps Engineer | Cloud Computing Enthusiast | AWS & Azure Practitioner**  
+🚀 **DevOps Engineer | Cloud Enthusiast | MCA Cloud Computing (CGPA: 9.4)**  
 
-📍 Bengaluru, India | 🎓 MCA in Cloud Computing (CGPA: 9.4)  
-📧 **shivani.barya@outlook.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)  
+📍 Bengaluru, India | 📧 **shivani.barya@outlook.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen)
 
 ---
 
@@ -32,21 +34,35 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=radical)
+| ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=radical) |
+| --- | --- |
+
+---
+
+## 🔥 GitHub Streak & Contribution Graph  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivanibarya&theme=radical&border_radius=10)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivanibarya&theme=react-dark)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shivanibarya&theme=radical&column=7)
 
 ---
 
 ## 🏅 Certifications & Achievements  
 
-- 🏆 **AWS Cloud Practitioner Essentials**  
-- 🏆 **Oracle Certified Foundation Associate**  
-- 🏆 **Fundamentals of Cloud Security**  
-- 🎖 **IEEE Coding/Project/Poster Competition Winner**  
-- 🎖 **SISTECH Hackathon 2.0 Finalist**  
-- 🏅 **Excellence Award (100% Attendance)**  
+✅ AWS Cloud Practitioner Essentials  
+✅ Oracle Certified Foundation Associate  
+✅ Fundamentals of Cloud Security  
+🏆 IEEE Coding/Project/Poster Competition Winner  
+🏆 SISTECH Hackathon 2.0 Finalist  
+🏅 Excellence Award (100% Attendance)  
 
 ---
 
@@ -54,9 +70,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---
 
-⭐ **Pro Tip:** Your pinned projects automatically show live GitHub stars, forks, and descriptions — recruiters love this!  
+⭐ **Pro Tip:** This README is fully dynamic — it auto-refreshes your stats, streak, languages, contributions, and trophies daily!  
+
 
