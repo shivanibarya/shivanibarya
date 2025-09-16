@@ -51,8 +51,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
 ## 🏅 Certifications & Achievements  
 
 ✅ AWS Cloud Practitioner Essentials  
