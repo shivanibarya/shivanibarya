@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with<br>🌱 I’m AWS, AZURE , DEVOPS currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🤝 I’m looking for help with<br>🌱 I’m AWS, AZURE , DEVOPS currently learning<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
