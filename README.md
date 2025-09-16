@@ -35,15 +35,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-[![3-Tier AWS Architecture](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-3tier-architecture&theme=radical)](https://github.com/shivanibarya/aws-3tier-architecture)
-[![Content Delivery with CloudFront](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=aws-cloudfront-project&theme=radical)](https://github.com/shivanibarya/aws-cloudfront-project)
-[![Rural Remedies](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=rural-remedies&theme=radical)](https://github.com/shivanibarya/rural-remedies)
-[![We-Safe](https://github-readme-stats.vercel.app/api/pin/?username=shivanibarya&repo=we-safe&theme=radical)](https://github.com/shivanibarya/we-safe)
-
----
-
 ## 📊 GitHub Analytics  
 
 | ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=radical) |
