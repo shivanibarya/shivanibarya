@@ -5,7 +5,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen)
-
 ---
 
 ## 🛠️ Tech Stack & Tools  
@@ -22,7 +21,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ---
 
 ## 📚 Currently Learning  
@@ -32,7 +30,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
-
 ---
 
 # 📊 GitHub Stats:
@@ -45,8 +42,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivanibarya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+-
 [![](https://visitcount.itsvg.in/api?id=shivanibarya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏅 Certifications & Achievements  
@@ -57,16 +53,11 @@
 🏆 IEEE Coding/Project/Poster Competition Winner  
 🏆 SISTECH Hackathon 2.0 Finalist  
 🏅 Excellence Award (100% Attendance)  
-
 ---
-
 ## 🌐 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-
 ---
 
 ⭐ **This README dynamically updates with your latest contributions and progress — showing the world what you are learning right now!**
