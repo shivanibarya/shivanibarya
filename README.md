@@ -45,18 +45,12 @@
 [![](https://visitcount.itsvg.in/api?id=shivanibarya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏅 Certifications & Achievements  
-
-✅ AWS Cloud Practitioner Essentials
-
-✅ Oracle Certified Foundation Associate
-
-✅ Fundamentals of Cloud Security
-
-🏆 IEEE Competitions – Coding, Project & Poster participation
-
-🏆 SISTECH Hackathon 2.0 – Active participation
-
-🏅 Excellence Award – 100% Attendance
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Oracle Certified](https://img.shields.io/badge/Oracle%20Foundation%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Cloud Security](https://img.shields.io/badge/Fundamentals%20of%20Cloud%20Security-2E8B57?style=for-the-badge&logo=cloudflare&logoColor=white)  
+🏆 **IEEE Competitions** – Coding, Project & Poster Participation  
+🏆 **SISTECH Hackathon 2.0** – Innovation-driven Hackathon Participation  
+🏅 **Excellence Award** – 100% Attendance  
 ---
 ## 🌐 Let's Connect  
 
