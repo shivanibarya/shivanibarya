@@ -49,8 +49,8 @@
 ✅ AWS Cloud Practitioner Essentials  
 ✅ Oracle Certified Foundation Associate  
 ✅ Fundamentals of Cloud Security  
-🏆 IEEE Coding/Project/Poster Competition Winner  
-🏆 SISTECH Hackathon 2.0 Finalist  
+🏆 IEEE Coding/Project/Poster Competition participation 
+🏆 SISTECH Hackathon 2.0 participation 
 🏅 Excellence Award (100% Attendance)  
 ---
 ## 🌐 Let's Connect  
