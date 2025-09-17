@@ -60,5 +60,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
 ---
 
-⭐ **This README dynamically updates with your latest contributions and progress — showing the world what you are learning right now!**
+⭐**This README dynamically updates with your latest contributions and progress — showing the world what you are learning right now!**
 
