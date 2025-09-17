@@ -50,7 +50,6 @@
 ✅ Oracle Certified Foundation Associate  
 ✅ Fundamentals of Cloud Security  
 🏆 IEEE Coding/Project/Poster Competition participation
-
 🏆 SISTECH Hackathon 2.0 participation 
 🏅 Excellence Award (100% Attendance)  
 ---
