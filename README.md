@@ -32,8 +32,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanibarya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub Status:
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanibarya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
