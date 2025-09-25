@@ -1,6 +1,26 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" alt="RESUME PHOTO" width="200" style="border-radius:50%;" />
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" alt="Shivani Barya" width="180" style="border-radius:50%;" />
+    </td>
+    <td>
+      <h2>💻 Hi, I'm <strong>Shivani Barya</strong> 👋</h2>
+      
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
+      
+      <p>
+        <a href="https://www.linkedin.com/in/shivani-barya-2b1736293">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        <a href="https://github.com/shivanibarya">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 # 💻 Hi, I'm Shivani Barya! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
