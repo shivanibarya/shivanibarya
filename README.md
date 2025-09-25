@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" alt="Shivani Barya" width="300" style="border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" alt="RESUME PHOTO" width="200" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
 </p>
 
 # 💻 Hi, I'm Shivani Barya! 👋
