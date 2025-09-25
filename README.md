@@ -1,8 +1,6 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshbarik-programer&label=Profile%20views&color=0e75b6&style=flat" alt="riteshbarik-programer" /> </p>
-
 # 💻 Hi, I'm Shivani Barya! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
 
