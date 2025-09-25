@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/shivanibarya/shivanibarya/blob/main/Screenshot%202025-09-25%20204649.png" alt="Shivani Barya" width="300" />
-</p>
+
 
 # 💻 Hi, I'm Shivani Barya! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
