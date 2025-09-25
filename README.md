@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shivanibarya/shivanibarya/blob/main/Screenshot%202025-09-25%20204649.png" alt="Shivani Barya" width="300" style="border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" alt="Shivani Barya" width="300" style="border-radius:50%;" />
 </p>
 
 # 💻 Hi, I'm Shivani Barya! 👋
