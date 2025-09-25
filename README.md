@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/shivanibarya/shivanibarya/blob/main/Screenshot%202025-09-25%20204649.png" alt="Shivani Barya" width="300" style="border-radius:50%;" />
+</p>
+
 # 💻 Hi, I'm Shivani Barya! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
 
@@ -56,7 +60,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanibarya)
----
-
-⭐**This README dynamically updates with your latest contributions and progress — showing the world what you are learning right now!**
-
