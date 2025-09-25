@@ -1,41 +1,14 @@
-<!-- 💻 Shivani Barya GitHub Profile README -->
+<p align="center">
+  <img src="https://github.com/shivanibarya/shivanibarya/blob/main/Screenshot%202025-09-25%20204649.png" alt="Shivani Barya" width="300" />
+</p>
 
-<!-- 👩‍💻 Intro Section with Image + Typing Animation -->
-<div align="center">
-  <table>
-    <tr>
-      <!-- Left Side - Your Image -->
-      <td>
-        <img src="https://github.com/user-attachments/assets/7b11bea1-5e38-48d6-a98d-3e04defb10d1" 
-             alt="Shivani Barya" width="230" style="border-radius: 20px; box-shadow: 0 0 20px #FF5733;"/>
-      </td>
+# 💻 Hi, I'm Shivani Barya! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
 
-      <!-- Right Side - Intro + Typing Animation -->
-      <td>
-        <h1>💻 Hi, I'm Shivani Barya! 👋</h1>
+📍 **Bengaluru, India** | 📧 **shivani.barya@outlook.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)
 
-        <!-- Typing Animation -->
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator" alt="Typing SVG" />
-        </a>
-
-        <!-- Contact Info -->
-        <p>📍 <b>Bengaluru, India</b> | 📧 <b>shivani.barya@outlook.com</b></p>
-
-        <!-- Social Buttons -->
-        <p>
-          <a href="https://github.com/shivanibarya">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://www.linkedin.com/in/shivani-barya-2b1736293">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen)
 ---
 
 ## 🛠️ Tech Stack & Tools  
@@ -52,7 +25,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ---
 
 ## 📚 Currently Learning  
@@ -62,35 +34,29 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge&logo=githubactions)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
-
 ---
 
 # 📊 GitHub Status:
-
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanibarya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=shivanibarya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
 ### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=shivanibarya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+-
+[![](https://visitcount.itsvg.in/api?id=shivanibarya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏅 Certifications & Achievements  
-
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Oracle Certified](https://img.shields.io/badge/Oracle%20Foundation%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![Cloud Security](https://img.shields.io/badge/Fundamentals%20of%20Cloud%20Security-2E8B57?style=for-the-badge&logo=cloudflare&logoColor=white)  
 🏆 **IEEE Competitions** – Coding, Project & Poster Participation  
 🏆 **SISTECH Hackathon 2.0** – Innovation-driven Hackathon Participation  
 🏅 **Excellence Award** – 100% Attendance  
-
 ---
+## 🌐 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
+
