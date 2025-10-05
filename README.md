@@ -54,6 +54,6 @@
 🏆 **SISTECH Hackathon 2.0** – Innovation-driven Hackathon Participation  
 🏅 **Excellence Award** – 100% Attendance  
 ---
-## 🌐 Let's Connect  
+## 🌐 Let's Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)
