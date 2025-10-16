@@ -6,7 +6,7 @@
 📍 **Bengaluru, India** | 📧 **shivani.barya@outlook.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen) 
 ---
 
 ## 🛠️ Tech Stack & Tools  
