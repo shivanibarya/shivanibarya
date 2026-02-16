@@ -3,7 +3,7 @@
 # 💻 Hi, I'm Shivani Barya! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=🚀+DevOps+Engineer+in+Making!;☁️+Passionate+about+AWS+%26+Cloud+Computing;💡+Continuous+Learner+and+Innovator)](https://git.io/typing-svg)
 
-📍 **Bengaluru, India** | 📧 **shivani.barya@outlook.com**  
+📍 **Bengaluru, India** | 📧 **shivanibarya29@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293) | [GitHub](https://github.com/shivanibarya)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=brightgreen) 
