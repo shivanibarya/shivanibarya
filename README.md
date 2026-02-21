@@ -1,6 +1,9 @@
 <img align="right" alt="DevOps" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 # 💻 Hi, I'm Shivani Barya! 👋  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+![Made With](https://img.shields.io/badge/Made%20With-DevOps-blue)
 
 🚀 DevOps Engineer | AWS | CI/CD | Terraform | Kubernetes  
 📍 Bengaluru, Karnataka, India  
@@ -143,6 +146,30 @@ Bundelkhand University, Jhansi | 2017 – 2020
 
 To start my career as a DevOps/Cloud Engineer where I can leverage my skills in AWS, CI/CD, Docker, Kubernetes, and Terraform to build scalable, automated, and reliable cloud infrastructure while continuously learning and contributing to innovative cloud solutions.
 
+---
+
+# 📜 License  
+
+This repository and all its contents are licensed under the **MIT License**.
+
+© 2026 Shivani Barya. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this project and associated documentation files, to deal in the Software  
+without restriction, including without limitation the rights to:
+
+- Use  
+- Copy  
+- Modify  
+- Merge  
+- Publish  
+- Distribute  
+- Sublicense  
+- Use for educational and professional purposes  
+
+This project is created for learning, DevOps practice, and portfolio demonstration.
+
+See the full LICENSE file for complete legal details.
 ---
 
 # 🌐 Let's Connect  
