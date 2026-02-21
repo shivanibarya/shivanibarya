@@ -1,21 +1,130 @@
-MIT License
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
-Copyright (c) 2026 Shivani Barya
+Copyright (C) 2026 Shivani Barya
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to do so, subject to the following conditions:
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-This project is intended for educational, portfolio, and professional DevOps practice use.
+## Preamble
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This project is licensed under the GNU General Public License v3.0.
+The purpose of this license is to guarantee your freedom to use, modify, and distribute this software while ensuring that all modified versions also remain free and open source.
+
+When we speak of free software, we refer to freedom, not price. This license ensures that:
+
+* You can use this software freely
+* You can modify the source code
+* You can distribute copies
+* You can share improvements with the community
+
+This software is developed as part of academic and DevOps/Cloud learning projects by Shivani Barya.
+
+---
+
+## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+### 1. Source Code
+
+The “source code” refers to the preferred form of the project for making modifications.
+You are allowed to access, modify, and reuse the source code for educational and development purposes.
+
+---
+
+### 2. Basic Permissions
+
+You are permitted to:
+
+* Use this project for learning and development
+* Run and execute the program
+* Modify the code for personal or commercial use
+* Share the original or modified versions
+
+All rights are granted under this License for the full copyright term.
+
+---
+
+### 3. Redistribution
+
+You may redistribute this project under the following conditions:
+
+* You must include the original license
+* You must give proper credit to the author (Shivani Barya)
+* You must mention if any changes were made
+
+---
+
+### 4. Modified Versions
+
+If you modify this project:
+
+* You must clearly state that changes were made
+* The modified version must also be licensed under GPL v3
+* You cannot claim the original work as your own
+
+---
+
+### 5. No Warranty
+
+This project is provided "AS IS", without any warranty of any kind.
+The author is not responsible for:
+
+* System failures
+* Data loss
+* Security issues
+* Any damages caused by using this software
+
+Use this project at your own risk.
+
+---
+
+### 6. Limitation of Liability
+
+In no event shall the author (Shivani Barya) be liable for any claim, damages, or other liability arising from the use of this software.
+
+---
+
+### 7. Patent Rights
+
+This license grants a worldwide, royalty-free, non-exclusive patent license to use, modify, and distribute the software.
+
+---
+
+### 8. Acceptance of License
+
+By using, copying, modifying, or distributing this project, you agree to the terms of the GNU General Public License v3.0.
+
+---
+
+## How to Apply This License to This Project
+
+Project Name: DevOps & Cloud Projects Portfolio
+Author: Shivani Barya
+Year: 2026
+
+This project is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This project is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+For more details, see: https://www.gnu.org/licenses/
+
+---
+
+## Contact Information
+
+Author: Shivani Barya
+Role: DevOps & Cloud Computing Enthusiast
+Education: MCA (Cloud Computing)
+Email: [your-email@example.com](mailto:your-email@example.com)
+GitHub: https://github.com/your-username
+
+---
+
+END OF LICENSE
