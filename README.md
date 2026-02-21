@@ -1,123 +1,155 @@
 <img align="right" alt="DevOps" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-# 🚀 Hi, I'm Shivani Barya! 👋  
+# 💻 Hi, I'm Shivani Barya! 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+in+Making+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Cloud+Computing+Enthusiast+☁️;CI%2FCD+%7C+Automation+%7C+Linux+Lover+🐧)](https://git.io/typing-svg)
+🚀 DevOps Engineer | AWS | CI/CD | Terraform | Kubernetes  
+📍 Bengaluru, Karnataka, India  
+📧 shivanibarya29@gmail.com  
+💼 Open to DevOps / Cloud / SRE Opportunities  
 
-📍 **Bengaluru, India**  
-📧 **shivanibarya29@gmail.com**  
-💼 **Open to DevOps / Cloud / SRE Roles**  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/shivani-barya-2b1736293)  
-🔗 [GitHub](https://github.com/shivanibarya)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivanibarya&style=for-the-badge&color=blue)
+🔗 LinkedIn: https://www.linkedin.com/in/shivani-barya-2b1736293  
+🔗 GitHub: https://github.com/shivanibarya  
 
 ---
 
-# 👩‍💻 About Me  
+# 👩‍💻 Professional Summary  
 
-🎓 MCA (Cloud Computing) Graduate  
-☁️ Aspiring DevOps & Cloud Engineer with hands-on experience in AWS, CI/CD, Docker, Kubernetes, and Infrastructure as Code (Terraform).  
-🚀 Passionate about automation, scalable cloud architecture, and real-world DevOps implementations.  
+DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD automation.  
+Skilled in designing scalable cloud infrastructure, implementing Infrastructure as Code (IaC), and automating deployment pipelines.  
 
-I have built multiple real-time projects including:
+Experienced in:
 - 3-Tier Architecture on AWS  
-- CI/CD Pipelines using Jenkins & GitHub Actions  
-- Dockerized Cloud Deployments  
-- Infrastructure Automation using Terraform  
+- CI/CD Pipeline Automation  
+- Containerization & Kubernetes Deployment  
+- Infrastructure as Code using Terraform  
+- Code Quality & Security using SonarQube  
 
-💡 Strong believer in continuous learning, automation, and system reliability.
-
----
-
-# 🛠️ Tech Stack & Tools  
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### ⚙️ DevOps & CI/CD Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🐧 Operating System & Scripting
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Strong problem-solving mindset with focus on automation, reliability, performance optimization, and cloud-native solutions.
 
 ---
 
-# 🚀 Featured DevOps Projects  
+# 🛠️ Technical Skills  
 
-## 🔹 3-Tier Architecture on AWS  
-✔️ Custom VPC with Public & Private Subnets  
-✔️ EC2, RDS, Load Balancer & Auto Scaling  
-✔️ NAT Gateway, Internet Gateway & Security Groups  
-✔️ Highly Secure & Scalable Cloud Infrastructure  
+## ☁️ Cloud Platforms  
+- AWS (EC2, S3, VPC, IAM, RDS, EKS, ECS, Lambda, CloudFront)
 
-## 🔹 CI/CD Pipeline Automation  
-✔️ Automated build & deployment using Jenkins  
-✔️ GitHub Integration for continuous deployment  
-✔️ Reduced manual deployment errors  
+## ⚙️ DevOps & CI/CD Tools  
+- Jenkins  
+- Git, GitHub, GitLab  
+- Maven, Nexus  
+- SonarQube  
 
-## 🔹 Dockerized Application Deployment  
-✔️ Containerized applications using Docker  
-✔️ Multi-stage Docker builds  
-✔️ Cloud-based container deployment  
+## 🐳 Containers & Orchestration  
+- Docker  
+- Kubernetes  
 
----
+## 🏗️ Infrastructure as Code (IaC)  
+- Terraform  
 
-# 📚 Currently Learning  
-🌱 Advanced AWS (VPC, IAM, RDS, S3, Auto Scaling)  
-🌱 Kubernetes (Cluster, Pods, Services)  
-🌱 Terraform (Real-world Infrastructure as Code)  
-🌱 Monitoring Tools (Prometheus & Grafana)  
-🌱 Advanced CI/CD Pipelines  
+## 💻 Scripting Languages  
+- Python  
+- Bash  
+- Groovy  
 
----
+## 🗄️ Databases  
+- MySQL  
+- Amazon RDS  
 
-# 🏆 Certifications & Achievements  
-🏅 AWS Cloud Practitioner  
-🏅 Oracle Foundation Associate  
-🛡️ Fundamentals of Cloud Security  
-🏆 Excellence Award – 100% Attendance  
-🏆 IEEE Competitions (Coding & Projects)  
-🏆 Hackathon Participation (Innovation Projects)  
+## 🖥️ Operating Systems  
+- Linux (Ubuntu)  
+- Windows  
 
----
+## 🌐 Networking  
+- VPC  
+- Subnetting  
+- Routing  
+- Security Groups  
+- Firewalls  
 
-# 📊 GitHub Analytics  
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanibarya&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=tokyonight&hide_border=true">
+## 🚀 Deployment Strategies  
+- Blue-Green Deployment  
+- Rolling Deployment  
 
 ---
 
-# 🐍 Contribution Snake (Advanced)
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+# 💼 Professional Experience  
+
+## 🔹 DevOps Trainee – Q-Spiders (Jun 2025 – Present)  
+- Administered AWS services including EC2, S3, VPC, IAM, Lambda, CloudWatch, and Auto Scaling  
+- Automated deployment and configuration using Bash and Python scripting  
+- Built and managed CI/CD pipelines using Jenkins, Git, Docker, Kubernetes, and Terraform  
+- Implemented DevOps best practices including IaC, containerization, version control, and monitoring  
+
+---
+
+# 🚀 Featured Projects  
+
+## 🔹 Terraform IaC Automation (Jan 2026)  
+**Technologies:** Terraform, AWS (VPC, EC2, S3, IAM), Git  
+- Implemented Infrastructure as Code (IaC) to automate AWS resource provisioning  
+- Automated VPC, EC2, S3, and IAM setup using Terraform  
+- Reduced manual configuration errors and improved infrastructure consistency  
+- Version-controlled Terraform scripts using Git  
+- Reduced environment setup time by 70%  
+
+---
+
+## 🔹 CI/CD Automation Project (Dec 2025)  
+**Technologies:** Jenkins, GitLab, Docker, Kubernetes, SonarQube  
+- Developed end-to-end CI/CD pipeline for build, test, scan, and deployment  
+- Containerized applications using Docker  
+- Deployed applications on Kubernetes clusters  
+- Integrated SonarQube for code quality and vulnerability scanning  
+- Improved deployment efficiency by 50% and minimized manual effort  
+
+---
+
+## 🔹 Deploy 3-Tier Architecture on AWS (May 2025)  
+**Technologies:** AWS (VPC, EC2, RDS, ALB, Auto Scaling, IAM, S3, NAT Gateway)  
+- Designed secure and scalable 3-tier architecture using custom VPC  
+- Configured public and private subnets for network isolation  
+- Deployed EC2, RDS, ALB, and Auto Scaling for high availability  
+- Implemented IAM roles, Security Groups, and NAT Gateway for secure operations  
+- Ensured fault tolerance and optimized cloud infrastructure performance  
+
+---
+
+# 🎓 Education  
+
+🎓 Master of Computer Applications (MCA – Cloud Computing)  
+SAGE University, Bhopal | CGPA: 9.05 (2023 – 2025)  
+
+🎓 B.Sc. (Hons) Biotechnology  
+Bundelkhand University, Jhansi | 2017 – 2020  
+
+---
+
+# 🏆 Certifications  
+
+- AWS Cloud Practitioner Essentials (2024)  
+- Fundamentals of Cloud Security (2024)  
+- Oracle Certified Foundation Associate (2024)  
+
+---
+
+# 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=shivanibarya&show_icons=true&theme=tokyonight&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivanibarya&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanibarya&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🎯 Career Objective  
-To start my career as a DevOps/Cloud Engineer where I can leverage my skills in AWS, CI/CD, Docker, Kubernetes, and Terraform to build scalable, automated, and reliable cloud infrastructure while continuously learning and growing in the DevOps domain.
+
+To start my career as a DevOps/Cloud Engineer where I can leverage my skills in AWS, CI/CD, Docker, Kubernetes, and Terraform to build scalable, automated, and reliable cloud infrastructure while continuously learning and contributing to innovative cloud solutions.
 
 ---
 
 # 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani%20Barya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-barya-2b1736293)  
-[![Gmail](https://img.shields.io/badge/Email-shivanibarya29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanibarya29@gmail.com)
+📧 Email: shivanibarya29@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shivani-barya-2b1736293  
+💻 GitHub: https://github.com/shivanibarya  
 
-⭐ From [ShivaniBarya](https://github.com/shivanibarya)
+⭐ Open to DevOps | Cloud | SRE | Junior DevOps Engineer Roles
