@@ -7,7 +7,7 @@
 
 🚀 DevOps Engineer | AWS | CI/CD | Terraform | Kubernetes  
 📍 Bengaluru, Karnataka, India  
-📧 shivanibarya29@gmail.com  
+📧 shivanibarya29@gmail.com 
 💼 Open to DevOps / Cloud / SRE Opportunities  
 🔗 LinkedIn: https://www.linkedin.com/in/shivani-barya-2b1736293  
 🔗 GitHub: https://github.com/shivanibarya  
